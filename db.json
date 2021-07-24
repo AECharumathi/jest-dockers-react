@@ -1,0 +1,142 @@
+{
+  "courses": [
+    {
+      "id": "C001",
+      "courseName": "Artificial Intelligence (AI) and Machine Learning",
+      "courseSortDesc": "Analyze interactions to determine underlying connections and insights, to help predict demand for services"
+    },
+    {
+      "id": "C002",
+      "courseName": "Robotic Process Automation (RPA)",
+      "courseSortDesc": "Use software to automate business processes such as interpreting applications, processing transactions, dealing with data, and even replying to emails"
+    },
+    {
+      "id": "C003",
+      "courseName": "Edge Computing",
+      "courseSortDesc": "Exist “on the edge,” if you will, closer to where computing needs to happen."
+    },
+    {
+      "id": "C004",
+      "courseName": "Quantum Computing",
+      "courseSortDesc": "Use quantum phenomena like superposition and quantum entanglement to prevent risks in computing."
+    },
+    {
+      "id": "C005",
+      "courseName": "Virtual Reality and Augmented Reality",
+      "courseSortDesc": "VR immerses the user in an environment while AR enhances their environment."
+    },
+    {
+      "id": "C006",
+      "courseName": "Blockchain",
+      "courseSortDesc": "With blockchain, you don’t need a trusted third-party to oversee or validate transactions."
+    },
+    {
+      "id": "C007",
+      "courseName": "Internet of Things (IoT)",
+      "courseSortDesc": "The Internet of Things is the future, and has already enabled devices, home appliances, cars and much more to be connected to and exchange data over the Internet"
+    },
+    {
+      "id": "C008",
+      "courseName": "5G",
+      "courseSortDesc": "Revolutionize our lives by enabling services that rely on advanced technologies like AR and VR, alongside cloud based gaming services like Google Stadia, NVidia GeForce Now and much more"
+    },
+    {
+      "id": "C009",
+      "courseName": "Cyber Security",
+      "courseSortDesc": "a trending technology because it will constantly evolve to defend against those hackers."
+    }
+  ],
+  "usersEnquired": [
+    {
+      "firstName": "khbj",
+      "lastName": "bhhbj",
+      "occupation": "Vendor",
+      "companyName": "hkuv",
+      "emailId": "khbkhb",
+      "phoneNumber": "09887767",
+      "courseName": "5G",
+      "id": 1
+    },
+    {
+      "firstName": "jhkjhb",
+      "lastName": "kjkuhb,",
+      "occupation": "Vendor",
+      "companyName": "hgkuyhb,jm",
+      "emailId": "ljh,jhbnm",
+      "phoneNumber": "87985765",
+      "courseName": "Internet of Things (IoT)",
+      "id": 2
+    },
+    {
+      "firstName": "jhkjhb",
+      "lastName": "kjkuhb,",
+      "occupation": "Vendor",
+      "companyName": "hgkuyhb,jm",
+      "emailId": "ljh,jhbnm",
+      "phoneNumber": "87985765",
+      "courseName": "Artificial Intelligence (AI) and Machine Learning",
+      "id": 3
+    },
+    {
+      "firstName": "jkniyub",
+      "lastName": "buktfitg",
+      "occupation": "student",
+      "companyName": "utygkuygb",
+      "emailId": "kugkuyb",
+      "phoneNumber": "8607696592",
+      "courseName": "Edge Computing",
+      "id": 4
+    },
+   
+    {
+      "firstName": "wecsd",
+      "lastName": "hj",
+      "occupation": "Vendor",
+      "companyName": "jbkuvhb",
+      "emailId": "gvkgbkj@jhbh.com",
+      "phoneNumber": "9876543210",
+      "courseName": "Robotic Process Automation (RPA)",
+      "id": 5
+    },
+    {
+      "firstName": "jnlihblhb",
+      "lastName": "hjbljjk",
+      "occupation": "Vendor",
+      "companyName": "jkhvghb",
+      "emailId": "viytkvhg@jytgvgh.com",
+      "phoneNumber": "9876544321",
+      "courseName": "Robotic Process Automation (RPA)",
+      "id": 6
+    },
+    {
+      "firstName": "uhlib",
+      "lastName": "hbhb",
+      "occupation": "IT Professional",
+      "companyName": "hgi",
+      "emailId": "hhgiytvg@hbhb.com",
+      "phoneNumber": "9876543210",
+      "courseName": "Artificial Intelligence (AI) and Machine Learning",
+      "id": 7
+    },
+    {
+      "firstName": "abc",
+      "lastName": "def",
+      "occupation": "IT Professional",
+      "companyName": "ghi",
+      "emailId": "jk@mno.com",
+      "phoneNumber": "6543210987",
+      "courseName": "Robotic Process Automation (RPA)",
+      "id": 8
+    },
+    {
+      "firstName": "xyz",
+      "lastName": "wuv",
+      "occupation": "student",
+      "companyName": "trs",
+      "emailId": "qwe@hfn.in",
+      "phoneNumber": "9876543210",
+      "courseName": "Robotic Process Automation (RPA)",
+      "id": 9
+    }
+  ]
+}

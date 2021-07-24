@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Component Snapshot App 1`] = `
+<div
+  className="App"
+>
+  <header
+    className="App-header"
+  >
+    <div
+      className="header-container"
+    >
+      <h1>
+        COURSE ENQUIRY
+      </h1>
+    </div>
+  </header>
+  <body />
+  <footer
+    className="App-footer"
+  >
+    <div
+      className="footer-container"
+    >
+      <span>
+        Terms and Conditions
+      </span>
+      <span>
+        FAQ
+      </span>
+      <span>
+        Contact Us
+      </span>
+    </div>
+  </footer>
+</div>
+`;
+
+exports[`Footer Component Snapshot Footer 1`] = `
+<div
+  className="footer-container"
+>
+  <span>
+    Terms and Conditions
+  </span>
+  <span>
+    FAQ
+  </span>
+  <span>
+    Contact Us
+  </span>
+</div>
+`;
+
+exports[`Header Component Snapshot Header 1`] = `
+<div
+  className="header-container"
+>
+  <h1>
+    COURSE ENQUIRY
+  </h1>
+</div>
+`;

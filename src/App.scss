@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Arima+Madurai:wght@200&family=Crimson+Text&family=Oswald&display=swap");
+
+.App-header {
+  background-color: #282c34;
+  padding: 12px;
+ // max-height: 5vh;
+  display: flex;
+  text-align: center;
+  font-size:16px;
+  color: #d6d6d6;
+  font-family: 'Roboto';
+  font-weight: 400;
+
+  .header-container {
+    width: 100%;
+  }
+  
+}
+
+body{
+  //  min-height: 86vh;
+    align-content: center;
+}
+
+.main-content {
+//  min-height: 86vh;
+
+  .main-content-container {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .main-content-header {
+    font-family: "Roboto";
+    padding: 10px 10px;
+
+    h2 {
+      margin: 0px;
+      font-size: 40px;
+      text-decoration-line: underline; 
+    }
+
+    h6 {
+        margin: 0px;
+        font-size: 18px;
+        color: #8f8d8d;
+    }
+
+  }
+
+  .main-content-body {
+    font-family: "Arima Madurai";
+    padding: 0px 5px;
+  }
+
+  .main-content-quote {
+    font-family: "Roboto";
+    background-color: white;
+
+    h2 {
+      text-align: left;
+      font-weight: 200;
+    }
+
+    h5{
+        margin: 0px;
+    }
+
+  }
+
+}
+
+.display-flex{
+  display:flex;
+  justify-content: space-between;
+}
+
+.footer-container {
+ max-height: 4vh;
+  padding: 11px 80px;
+  background-color: #282c34;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 18px;
+  color: rgb(117, 115, 115);
+  display: flex !important;
+  justify-content: space-between;
+}
+
+
